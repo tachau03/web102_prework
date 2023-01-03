@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 
-![ Walkthrough Gif](https://imgur.com/tQS7xaV)
+![ Walkthrough Gif](https://media.giphy.com/media/kUJMPRbzIwMTh9jncW/giphy.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with getkap
