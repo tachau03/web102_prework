@@ -17,13 +17,15 @@ The following **4** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Set a theme color for the website
+* [ ] Add affect when the cards appear/disappear
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-[Imgur](https://imgur.com/tQS7xaV)
+
+![ Walkthrough Gif](Walkthrough. gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with getkap
